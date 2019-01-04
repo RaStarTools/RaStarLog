@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "RaStarLog"
-  s.version = "0.1.3"
+  s.version = "0.1.4"
   s.summary = "A short description of RaStarLog."
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"沈达"=>"vincentshen@rastar.com"}
